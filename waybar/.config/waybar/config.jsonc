@@ -98,7 +98,7 @@
 },
 
   "clock": {
-    "timezone": "Europe/Moscow",
+    "timezone": "Asia/Kolkata",
     "format": "<span color='#ffcb6b'>󰥔</span> {:%a %b %d %R %p}",
     "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
   },
